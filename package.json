@@ -1,0 +1,18 @@
+{
+  "name": "invoice_app",
+  "version": "1.0.0",
+  "description": "serverless_invoice_app_with_node_react_lambda_dynamodb_apigateway",
+  "main": "Lambda_reading_invoices.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "bootstrap": "^4.5.0",
+    "reactstrap": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishan_Sharma",
+  "license": "ISC"
+}
